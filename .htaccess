@@ -1,0 +1,17 @@
+RewriteEngine On
+
+RewriteRule ^contact?$ contact.php
+RewriteRule ^about?$ about.html
+RewriteRule ^category?$ category.html
+RewriteRule ^pimnas?$ pimnas.html
+RewriteRule ^kegiatan?$ kegiatan.html
+RewriteRule ^produk?$ produk.html
+RewriteRule ^teknologidaninformasi?$ teknologi.html
+RewriteRule ^pkm?$ pkm.html
+RewriteRule ^mentorship?$ mentorship.html
+RewriteRule ^kti?$ kti.html
+RewriteRule ^cynthiacaroline?$ biodata/caroline.html
+RewriteRule ^timotiuswirayudha?$ biodata/wira.html
+RewriteRule ^admin-secret-login?$ login.php
+RewriteRule ^blog/produk/rotasiliner?$ blog/produk/rotasiliner.php
+RewriteRule ^admin/home?$ admin/home.php
